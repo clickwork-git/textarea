@@ -9,7 +9,7 @@ Versions
 --------
 
 1.1, August 24, 2018
-- Update for Bludit v3.0.0
+- Update for Bludit v3.0.0.
 
 1.0, August 10, 2016
 - Release.
