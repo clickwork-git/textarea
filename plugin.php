@@ -12,15 +12,15 @@ class pluginTextarea extends Plugin {
 
 	public function form()
 	{
-		global $Language;
+		global $L;
 
 		$html  = '<div>';
-		$html .= '<label>'.$Language->get('Plugin label').'</label>';
+		$html .= '<label>'.$L->get('Plugin label').'</label>';
 		$html .= '<input name="label" id="jslabel" type="text" value="'.$this->getValue('label').'">';
 		$html .= '</div>';
 
 		$html .= '<div>';
-		$html .= '<label>'.$Language->get('Text').'</label>';
+		$html .= '<label>'.$L->get('Text').'</label>';
 		$html .= '<textarea name="text" id="jstext">'.$this->getValue('text').'</textarea>';
 		$html .= '</div>';
 
