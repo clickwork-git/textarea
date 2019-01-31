@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Tekstvak",
+		"description": "Toont tekst in de zijbalk inclusief HTML-opmaak."
+	},
+	"plugin-label": "Label voor tekstvak",
+	"text": "Tekst of HTML-code"
+}
