@@ -42,4 +42,5 @@ class pluginTextarea extends Plugin {
 
 		return $html;
 	}
+
 }
