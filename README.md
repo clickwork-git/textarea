@@ -9,8 +9,8 @@ Versions
 --------
 
 2.3, December 28, 2021
- - Modification of a CSS class.
- - Czech translation.
+- Modification of a CSS class.
+- Czech translation.
 
 2.2, January 31, 2019
 - Addition class "plugin-label".
