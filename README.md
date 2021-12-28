@@ -8,6 +8,10 @@ The plugin is a modification of the plugin About.
 Versions
 --------
 
+1.1.1, December, 28, 2021
+ - Modification of a CSS class.
+ - Czech language file.
+
 1.1, August 24, 2018
 - Update for Bludit v3.0.0.
 
