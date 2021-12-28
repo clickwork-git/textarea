@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Textarea",
+		"description": "Textarea umožňuje zobrazit text v postranním panelu pomocí HTML kódu."
+	}
+}
