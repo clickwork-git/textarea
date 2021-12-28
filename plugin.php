@@ -33,7 +33,7 @@ class pluginTextarea extends Plugin {
 	$about = $this->getValue('text');
 	$about = htmlspecialchars_decode($about);
 
-		$html  = '<div class="plugin plugin-about">';
+		$html  = '<div class="plugin plugin-textarea">';
 		$html .= '<h2 class="plugin-label">'.$this->getValue('label').'</h2>';
 		$html .= '<div class="plugin-content">';
 		$html .= nl2br($about);
